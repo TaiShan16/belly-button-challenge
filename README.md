@@ -9,3 +9,4 @@ In order to create the dashboard for displaying microbes collected from each tes
 ### Data Source:
 http://robdunnlab.com/projects/belly-button-biodiversity/
 
+![alt text](https://github.com/TaiShan16/belly-button-challenge/blob/main/Dashboard.PNG)
